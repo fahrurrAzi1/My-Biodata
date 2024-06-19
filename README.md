@@ -1,2 +1,2 @@
 # My-Biodata
-repository biodata dari pemilik akun
+repository biodata dari pemilik akun berisi data dan beberapa mini project
