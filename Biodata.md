@@ -5,3 +5,4 @@
 4. **Jurusan :** FKIP
 5. **Jenis Kelamin :** Laki - Laki
 6. **Status :** Belum Menikah
+7. **Hobi :** Membaca
